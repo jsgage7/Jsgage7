@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### About me:
-- :office: Currently a graduate researcher of AI Cognitive Assistants at [AI-ALOE (National AI Institute)](https://aialoe.org/), previously at [Vanguard](vanguard.com), Apollo API.
+- :office: Currently a graduate researcher of AI Cognitive Assistants at [AI-ALOE (National AI Institute)](https://aialoe.org/); previously at [Vanguard](vanguard.com), [Apollo API](https://github.com/apolloapi).
 
 - :snake: I have worked primarily in Python for around 4 years and enjoy C++ on the side.
 
