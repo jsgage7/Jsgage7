@@ -3,7 +3,7 @@
 #### About me:
 - :office: Currently a machine learning intern at [Open Motion AI](https://www.openmotion.ai/); previously at [AI-ALOE (National AI Institute)](https://aialoe.org/), [Vanguard](https://vanguard.com), [Apollo API](https://github.com/apolloapi), [Cobbs Creek Healthcare](https://www.cobbscreekhealthcare.com/).
 
-- :snake: I have worked primarily in Python for 4 years on various aspects of machine learning and data.
+- :snake: I have spent the past four years primarily working with Python, focusing on various aspects of machine learning and data.
 
 - :chart_with_upwards_trend: I'm interested in finance and healthcare applications.
 
