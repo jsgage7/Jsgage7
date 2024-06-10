@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 #### About me:
-- :office: Currently a graduate researcher of AI Cognitive Assistants at [AI-ALOE (National AI Institute)](https://aialoe.org/); previously at [Vanguard](https://vanguard.com), [Apollo API](https://github.com/apolloapi).
+- :office: Currently a machine learning intern at [Open Motion AI](https://www.openmotion.ai/); previously at [AI-ALOE (National AI Institute)](https://aialoe.org/), [Vanguard](https://vanguard.com), [Apollo API](https://github.com/apolloapi), [Cobbs Creek Healthcare](https://www.cobbscreekhealthcare.com/).
 
-- :snake: I have worked primarily in Python for around 4 years and enjoy C++ on the side.
+- :snake: I have worked primarily in Python for 4 years on various aspects of machine learning and data.
 
-- :chart_with_upwards_trend: I'm interested in finance, particularly quantitative development.
+- :chart_with_upwards_trend: I'm interested in finance and healthcare applications.
 
-- :mortar_board: UCLA grad (Cognitive Science), finishing up my masters in computer science from Georgia Tech in 2024.
+- :mortar_board: UCLA grad (Cognitive Science), finishing up my masters in computer science from Georgia Tech in Aug 2024.
